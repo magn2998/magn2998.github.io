@@ -1,14 +1,17 @@
 {
   "src/routes/+page.css": {
-    "file": "app/immutable/assets/page-2ee9d92b.css",
+    "file": "app/immutable/assets/page-0ab12b06.css",
     "src": "src/routes/+page.css"
   },
-  ".svelte-kit/generated/nodes/1.js": {
-    "file": "app/immutable/chunks/1-2ea82151.js",
-    "src": ".svelte-kit/generated/nodes/1.js",
+  "_page-da46b06b.js": {
+    "file": "app/immutable/chunks/page-da46b06b.js"
+  },
+  ".svelte-kit/generated/nodes/0.js": {
+    "file": "app/immutable/chunks/0-3af855d4.js",
+    "src": ".svelte-kit/generated/nodes/0.js",
     "isDynamicEntry": true,
     "imports": [
-      "node_modules/@sveltejs/kit/src/runtime/components/error.svelte"
+      "node_modules/@sveltejs/kit/src/runtime/components/layout.svelte"
     ]
   },
   "src/routes/+page.js": {
@@ -19,16 +22,24 @@
       "_page-da46b06b.js"
     ]
   },
+  ".svelte-kit/generated/nodes/1.js": {
+    "file": "app/immutable/chunks/1-941e6d78.js",
+    "src": ".svelte-kit/generated/nodes/1.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/@sveltejs/kit/src/runtime/components/error.svelte"
+    ]
+  },
   "node_modules/@sveltejs/kit/src/runtime/components/layout.svelte": {
-    "file": "app/immutable/components/layout.svelte-e469abde.js",
+    "file": "app/immutable/components/layout.svelte-66e16d04.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/components/layout.svelte",
     "isEntry": true,
     "imports": [
-      "_index-6df32495.js"
+      "_index-92993a8b.js"
     ]
   },
   ".svelte-kit/generated/nodes/2.js": {
-    "file": "app/immutable/chunks/2-54407007.js",
+    "file": "app/immutable/chunks/2-07b9130a.js",
     "src": ".svelte-kit/generated/nodes/2.js",
     "isDynamicEntry": true,
     "imports": [
@@ -36,53 +47,42 @@
       "src/routes/+page.svelte"
     ]
   },
-  "_page-da46b06b.js": {
-    "file": "app/immutable/chunks/page-da46b06b.js"
-  },
-  ".svelte-kit/generated/nodes/0.js": {
-    "file": "app/immutable/chunks/0-93286708.js",
-    "src": ".svelte-kit/generated/nodes/0.js",
-    "isDynamicEntry": true,
+  "_singletons-9888da1c.js": {
+    "file": "app/immutable/chunks/singletons-9888da1c.js",
     "imports": [
-      "node_modules/@sveltejs/kit/src/runtime/components/layout.svelte"
-    ]
-  },
-  "src/routes/+page.svelte": {
-    "file": "app/immutable/components/pages/page.svelte-0e018e2d.js",
-    "src": "src/routes/+page.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-6df32495.js"
-    ],
-    "css": [
-      "app/immutable/assets/page-2ee9d92b.css"
+      "_index-92993a8b.js"
     ]
   },
   "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
-    "file": "app/immutable/components/error.svelte-dbd64a83.js",
+    "file": "app/immutable/components/error.svelte-d5125400.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
     "isEntry": true,
     "imports": [
-      "_index-6df32495.js",
-      "_singletons-8e7001b1.js"
+      "_index-92993a8b.js",
+      "_singletons-9888da1c.js"
     ]
   },
-  "_singletons-8e7001b1.js": {
-    "file": "app/immutable/chunks/singletons-8e7001b1.js",
+  "src/routes/+page.svelte": {
+    "file": "app/immutable/components/pages/page.svelte-c9474ece.js",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
     "imports": [
-      "_index-6df32495.js"
+      "_index-92993a8b.js"
+    ],
+    "css": [
+      "app/immutable/assets/page-0ab12b06.css"
     ]
   },
-  "_index-6df32495.js": {
-    "file": "app/immutable/chunks/index-6df32495.js"
+  "_index-92993a8b.js": {
+    "file": "app/immutable/chunks/index-92993a8b.js"
   },
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "app/immutable/start-5a390871.js",
+    "file": "app/immutable/start-4a6c4077.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_index-6df32495.js",
-      "_singletons-8e7001b1.js"
+      "_index-92993a8b.js",
+      "_singletons-9888da1c.js"
     ],
     "dynamicImports": [
       ".svelte-kit/generated/nodes/0.js",
